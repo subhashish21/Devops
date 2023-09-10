@@ -9,7 +9,7 @@ try {
 
 node{
  stage('Checkout') {
- git 'https://github.com/edureka-git/DevOpsClassCodes'
+ git 'https://github.com/subhashish21/Devops.git'
 
  }
 stage('Build') {
